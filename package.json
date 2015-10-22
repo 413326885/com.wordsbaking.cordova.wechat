@@ -1,0 +1,21 @@
+{
+    "version": "0.3.0",
+    "name": "com.wordsbaking.cordova.wechat",
+    "cordova_name": "WeChat",
+    "description": "Cordova WeChat Plugin",
+    "license": "MIT",
+    "repo": "https://github.com/vilic/cordova-plugin-wechat.git",
+    "issue": "https://github.com/vilic/cordova-plugin-wechat/issues",
+    "keywords": [
+        "cordova",
+        "wechat",
+        "weixin",
+        "微信"
+    ],
+    "platforms": [
+        "ios",
+        "wp8",
+        "android"
+    ],
+    "engines": []
+}
